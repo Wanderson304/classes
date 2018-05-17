@@ -17,3 +17,7 @@ Como um Atendente eu devo cadastrar um novo cliente para permitir a emição de 
 **Então** deverá ser exibido um alerta
 
 
+
+## UC002: Excluir um cliente
+
+Como um Atendente eu posso excluir um cliente existente no sistema.
